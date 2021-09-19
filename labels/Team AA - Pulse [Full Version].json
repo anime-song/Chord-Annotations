@@ -1,0 +1,796 @@
+{
+    "chordList": [
+        {
+            "startTime": 0.0,
+            "endTime": 1.4,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 1.4,
+            "endTime": 2.667,
+            "chord": "G"
+        },
+        {
+            "startTime": 2.667,
+            "endTime": 4.0,
+            "chord": "D/F#"
+        },
+        {
+            "startTime": 4.0,
+            "endTime": 5.3,
+            "chord": "Em"
+        },
+        {
+            "startTime": 5.3,
+            "endTime": 6.633,
+            "chord": "C"
+        },
+        {
+            "startTime": 6.633,
+            "endTime": 7.933,
+            "chord": "Gadd9/B"
+        },
+        {
+            "startTime": 7.933,
+            "endTime": 9.2,
+            "chord": "Em7"
+        },
+        {
+            "startTime": 9.2,
+            "endTime": 14.433,
+            "chord": "Cadd9"
+        },
+        {
+            "startTime": 14.433,
+            "endTime": 15.733,
+            "chord": "Em"
+        },
+        {
+            "startTime": 15.733,
+            "endTime": 17.033,
+            "chord": "C"
+        },
+        {
+            "startTime": 17.033,
+            "endTime": 19.633,
+            "chord": "G"
+        },
+        {
+            "startTime": 19.633,
+            "endTime": 20.8,
+            "chord": "Em"
+        },
+        {
+            "startTime": 20.8,
+            "endTime": 22.233,
+            "chord": "C"
+        },
+        {
+            "startTime": 22.233,
+            "endTime": 22.767,
+            "chord": "G/B"
+        },
+        {
+            "startTime": 22.767,
+            "endTime": 23.233,
+            "chord": "C"
+        },
+        {
+            "startTime": 23.233,
+            "endTime": 24.867,
+            "chord": "D"
+        },
+        {
+            "startTime": 24.867,
+            "endTime": 26.133,
+            "chord": "G"
+        },
+        {
+            "startTime": 26.133,
+            "endTime": 27.467,
+            "chord": "G/F"
+        },
+        {
+            "startTime": 27.467,
+            "endTime": 28.8,
+            "chord": "Em7"
+        },
+        {
+            "startTime": 28.8,
+            "endTime": 29.067,
+            "chord": "Cadd9/E"
+        },
+        {
+            "startTime": 29.067,
+            "endTime": 30.067,
+            "chord": "Cadd9"
+        },
+        {
+            "startTime": 30.067,
+            "endTime": 31.367,
+            "chord": "Gadd9/B"
+        },
+        {
+            "startTime": 31.367,
+            "endTime": 32.7,
+            "chord": "Em"
+        },
+        {
+            "startTime": 32.7,
+            "endTime": 35.3,
+            "chord": "CM7(9)"
+        },
+        {
+            "startTime": 35.3,
+            "endTime": 36.6,
+            "chord": "Gadd9/B"
+        },
+        {
+            "startTime": 36.6,
+            "endTime": 37.9,
+            "chord": "Cadd9"
+        },
+        {
+            "startTime": 37.9,
+            "endTime": 39.233,
+            "chord": "Dsus4"
+        },
+        {
+            "startTime": 39.233,
+            "endTime": 40.533,
+            "chord": "Em7"
+        },
+        {
+            "startTime": 40.533,
+            "endTime": 41.833,
+            "chord": "Am7"
+        },
+        {
+            "startTime": 41.833,
+            "endTime": 43.133,
+            "chord": "Gadd9/B"
+        },
+        {
+            "startTime": 43.133,
+            "endTime": 44.433,
+            "chord": "C"
+        },
+        {
+            "startTime": 44.433,
+            "endTime": 45.733,
+            "chord": "D"
+        },
+        {
+            "startTime": 45.733,
+            "endTime": 54.867,
+            "chord": "Cadd9"
+        },
+        {
+            "startTime": 54.867,
+            "endTime": 56.167,
+            "chord": "D/F#"
+        },
+        {
+            "startTime": 56.167,
+            "endTime": 57.5,
+            "chord": "G/B"
+        },
+        {
+            "startTime": 57.5,
+            "endTime": 58.767,
+            "chord": "C"
+        },
+        {
+            "startTime": 58.767,
+            "endTime": 60.1,
+            "chord": "Dbm7-5"
+        },
+        {
+            "startTime": 60.1,
+            "endTime": 61.4,
+            "chord": "Cadd9"
+        },
+        {
+            "startTime": 61.4,
+            "endTime": 62.7,
+            "chord": "G/B"
+        },
+        {
+            "startTime": 62.7,
+            "endTime": 64.0,
+            "chord": "Em7"
+        },
+        {
+            "startTime": 64.0,
+            "endTime": 65.3,
+            "chord": "Am7"
+        },
+        {
+            "startTime": 65.3,
+            "endTime": 65.633,
+            "chord": "Am7/D"
+        },
+        {
+            "startTime": 65.633,
+            "endTime": 66.6,
+            "chord": "Dsus4"
+        },
+        {
+            "startTime": 66.6,
+            "endTime": 67.933,
+            "chord": "CM7"
+        },
+        {
+            "startTime": 67.933,
+            "endTime": 69.233,
+            "chord": "Cm6"
+        },
+        {
+            "startTime": 69.233,
+            "endTime": 70.533,
+            "chord": "Gadd9/B"
+        },
+        {
+            "startTime": 70.533,
+            "endTime": 71.833,
+            "chord": "Em7"
+        },
+        {
+            "startTime": 71.833,
+            "endTime": 72.933,
+            "chord": "Am7"
+        },
+        {
+            "startTime": 72.933,
+            "endTime": 74.433,
+            "chord": "G/B"
+        },
+        {
+            "startTime": 74.433,
+            "endTime": 75.733,
+            "chord": "C"
+        },
+        {
+            "startTime": 75.733,
+            "endTime": 76.467,
+            "chord": "C/D"
+        },
+        {
+            "startTime": 76.467,
+            "endTime": 77.067,
+            "chord": "D7"
+        },
+        {
+            "startTime": 77.067,
+            "endTime": 78.367,
+            "chord": "Em7"
+        },
+        {
+            "startTime": 78.367,
+            "endTime": 79.667,
+            "chord": "D/F#"
+        },
+        {
+            "startTime": 79.667,
+            "endTime": 82.267,
+            "chord": "G"
+        },
+        {
+            "startTime": 82.267,
+            "endTime": 83.6,
+            "chord": "Em7"
+        },
+        {
+            "startTime": 83.6,
+            "endTime": 84.867,
+            "chord": "Cadd9"
+        },
+        {
+            "startTime": 84.867,
+            "endTime": 87.467,
+            "chord": "G"
+        },
+        {
+            "startTime": 87.467,
+            "endTime": 88.6,
+            "chord": "Em"
+        },
+        {
+            "startTime": 88.6,
+            "endTime": 89.967,
+            "chord": "C"
+        },
+        {
+            "startTime": 89.967,
+            "endTime": 90.6,
+            "chord": "G/B"
+        },
+        {
+            "startTime": 90.6,
+            "endTime": 91.067,
+            "chord": "C"
+        },
+        {
+            "startTime": 91.067,
+            "endTime": 92.7,
+            "chord": "D"
+        },
+        {
+            "startTime": 92.7,
+            "endTime": 94.0,
+            "chord": "G"
+        },
+        {
+            "startTime": 94.0,
+            "endTime": 95.3,
+            "chord": "G/F"
+        },
+        {
+            "startTime": 95.3,
+            "endTime": 96.667,
+            "chord": "Cadd9/E"
+        },
+        {
+            "startTime": 96.667,
+            "endTime": 97.9,
+            "chord": "Cadd9"
+        },
+        {
+            "startTime": 97.9,
+            "endTime": 99.2,
+            "chord": "G/B"
+        },
+        {
+            "startTime": 99.2,
+            "endTime": 100.5,
+            "chord": "Em7"
+        },
+        {
+            "startTime": 100.5,
+            "endTime": 103.133,
+            "chord": "Cadd9"
+        },
+        {
+            "startTime": 103.133,
+            "endTime": 104.433,
+            "chord": "G/B"
+        },
+        {
+            "startTime": 104.433,
+            "endTime": 105.733,
+            "chord": "Cadd9"
+        },
+        {
+            "startTime": 105.733,
+            "endTime": 107.033,
+            "chord": "Dsus4"
+        },
+        {
+            "startTime": 107.033,
+            "endTime": 108.367,
+            "chord": "Em7"
+        },
+        {
+            "startTime": 108.367,
+            "endTime": 109.667,
+            "chord": "Am7"
+        },
+        {
+            "startTime": 109.667,
+            "endTime": 110.967,
+            "chord": "G/B"
+        },
+        {
+            "startTime": 110.967,
+            "endTime": 112.1,
+            "chord": "Cadd9"
+        },
+        {
+            "startTime": 112.1,
+            "endTime": 113.567,
+            "chord": "D"
+        },
+        {
+            "startTime": 113.567,
+            "endTime": 122.7,
+            "chord": "Cadd9"
+        },
+        {
+            "startTime": 122.7,
+            "endTime": 123.367,
+            "chord": "D/F#"
+        },
+        {
+            "startTime": 123.367,
+            "endTime": 124.0,
+            "chord": "G"
+        },
+        {
+            "startTime": 124.0,
+            "endTime": 125.3,
+            "chord": "G/B"
+        },
+        {
+            "startTime": 125.3,
+            "endTime": 126.6,
+            "chord": "Cadd9"
+        },
+        {
+            "startTime": 126.6,
+            "endTime": 127.9,
+            "chord": "Dbm7-5"
+        },
+        {
+            "startTime": 127.9,
+            "endTime": 129.2,
+            "chord": "Cadd9"
+        },
+        {
+            "startTime": 129.2,
+            "endTime": 130.5,
+            "chord": "G/B"
+        },
+        {
+            "startTime": 130.5,
+            "endTime": 131.833,
+            "chord": "Em"
+        },
+        {
+            "startTime": 131.833,
+            "endTime": 133.133,
+            "chord": "Am7"
+        },
+        {
+            "startTime": 133.133,
+            "endTime": 133.467,
+            "chord": "Am7/D"
+        },
+        {
+            "startTime": 133.467,
+            "endTime": 134.433,
+            "chord": "Dsus4"
+        },
+        {
+            "startTime": 134.433,
+            "endTime": 135.733,
+            "chord": "CM7"
+        },
+        {
+            "startTime": 135.733,
+            "endTime": 137.033,
+            "chord": "Cm6"
+        },
+        {
+            "startTime": 137.033,
+            "endTime": 138.333,
+            "chord": "Gadd9/B"
+        },
+        {
+            "startTime": 138.333,
+            "endTime": 139.667,
+            "chord": "Em7"
+        },
+        {
+            "startTime": 139.667,
+            "endTime": 140.667,
+            "chord": "Am7"
+        },
+        {
+            "startTime": 140.667,
+            "endTime": 142.267,
+            "chord": "G/B"
+        },
+        {
+            "startTime": 142.267,
+            "endTime": 143.567,
+            "chord": "C"
+        },
+        {
+            "startTime": 143.567,
+            "endTime": 144.867,
+            "chord": "Am7/D"
+        },
+        {
+            "startTime": 144.867,
+            "endTime": 146.0,
+            "chord": "Em"
+        },
+        {
+            "startTime": 146.0,
+            "endTime": 147.467,
+            "chord": "C"
+        },
+        {
+            "startTime": 147.467,
+            "endTime": 148.6,
+            "chord": "G"
+        },
+        {
+            "startTime": 148.6,
+            "endTime": 150.067,
+            "chord": "D"
+        },
+        {
+            "startTime": 150.067,
+            "endTime": 151.2,
+            "chord": "Em7"
+        },
+        {
+            "startTime": 151.2,
+            "endTime": 152.7,
+            "chord": "Cadd9"
+        },
+        {
+            "startTime": 152.7,
+            "endTime": 155.3,
+            "chord": "G"
+        },
+        {
+            "startTime": 155.3,
+            "endTime": 156.433,
+            "chord": "Em7"
+        },
+        {
+            "startTime": 156.433,
+            "endTime": 157.9,
+            "chord": "Cadd9"
+        },
+        {
+            "startTime": 157.9,
+            "endTime": 159.067,
+            "chord": "G"
+        },
+        {
+            "startTime": 159.067,
+            "endTime": 160.5,
+            "chord": "D"
+        },
+        {
+            "startTime": 160.5,
+            "endTime": 162.633,
+            "chord": "Am7"
+        },
+        {
+            "startTime": 162.633,
+            "endTime": 163.133,
+            "chord": "G"
+        },
+        {
+            "startTime": 163.133,
+            "endTime": 165.067,
+            "chord": "C"
+        },
+        {
+            "startTime": 165.067,
+            "endTime": 165.733,
+            "chord": "D/F#"
+        },
+        {
+            "startTime": 165.733,
+            "endTime": 167.033,
+            "chord": "G"
+        },
+        {
+            "startTime": 167.033,
+            "endTime": 168.367,
+            "chord": "C"
+        },
+        {
+            "startTime": 168.367,
+            "endTime": 169.667,
+            "chord": "D"
+        },
+        {
+            "startTime": 169.667,
+            "endTime": 170.967,
+            "chord": "Em7"
+        },
+        {
+            "startTime": 170.967,
+            "endTime": 172.267,
+            "chord": "Am7"
+        },
+        {
+            "startTime": 172.267,
+            "endTime": 173.567,
+            "chord": "G/B"
+        },
+        {
+            "startTime": 173.567,
+            "endTime": 174.6,
+            "chord": "C"
+        },
+        {
+            "startTime": 174.6,
+            "endTime": 175.567,
+            "chord": "Dsus4"
+        },
+        {
+            "startTime": 175.567,
+            "endTime": 177.467,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 177.467,
+            "endTime": 178.633,
+            "chord": "G/B"
+        },
+        {
+            "startTime": 178.633,
+            "endTime": 180.067,
+            "chord": "C"
+        },
+        {
+            "startTime": 180.067,
+            "endTime": 181.233,
+            "chord": "Dbm7-5"
+        },
+        {
+            "startTime": 181.233,
+            "endTime": 182.733,
+            "chord": "C"
+        },
+        {
+            "startTime": 182.733,
+            "endTime": 184.0,
+            "chord": "G/B"
+        },
+        {
+            "startTime": 184.0,
+            "endTime": 185.333,
+            "chord": "Em"
+        },
+        {
+            "startTime": 185.333,
+            "endTime": 186.7,
+            "chord": "Am7"
+        },
+        {
+            "startTime": 186.7,
+            "endTime": 187.9,
+            "chord": "Am7/D"
+        },
+        {
+            "startTime": 187.9,
+            "endTime": 189.2,
+            "chord": "CM7"
+        },
+        {
+            "startTime": 189.2,
+            "endTime": 190.533,
+            "chord": "Cm6"
+        },
+        {
+            "startTime": 190.533,
+            "endTime": 191.833,
+            "chord": "Gadd9/B"
+        },
+        {
+            "startTime": 191.833,
+            "endTime": 193.167,
+            "chord": "Em7"
+        },
+        {
+            "startTime": 193.167,
+            "endTime": 194.267,
+            "chord": "Am7"
+        },
+        {
+            "startTime": 194.267,
+            "endTime": 195.733,
+            "chord": "G/B"
+        },
+        {
+            "startTime": 195.733,
+            "endTime": 196.9,
+            "chord": "C"
+        },
+        {
+            "startTime": 196.9,
+            "endTime": 198.367,
+            "chord": "G/B"
+        },
+        {
+            "startTime": 198.367,
+            "endTime": 199.5,
+            "chord": "Am7"
+        },
+        {
+            "startTime": 199.5,
+            "endTime": 200.967,
+            "chord": "G/B"
+        },
+        {
+            "startTime": 200.967,
+            "endTime": 202.1,
+            "chord": "C"
+        },
+        {
+            "startTime": 202.1,
+            "endTime": 203.567,
+            "chord": "G/B"
+        },
+        {
+            "startTime": 203.567,
+            "endTime": 204.867,
+            "chord": "Am7"
+        },
+        {
+            "startTime": 204.867,
+            "endTime": 206.167,
+            "chord": "G/B"
+        },
+        {
+            "startTime": 206.167,
+            "endTime": 207.5,
+            "chord": "C"
+        },
+        {
+            "startTime": 207.5,
+            "endTime": 208.167,
+            "chord": "D7sus4"
+        },
+        {
+            "startTime": 208.167,
+            "endTime": 208.8,
+            "chord": "D7"
+        },
+        {
+            "startTime": 208.8,
+            "endTime": 210.1,
+            "chord": "Em"
+        },
+        {
+            "startTime": 210.1,
+            "endTime": 211.4,
+            "chord": "D/F#"
+        },
+        {
+            "startTime": 211.4,
+            "endTime": 214.0,
+            "chord": "G"
+        },
+        {
+            "startTime": 214.0,
+            "endTime": 215.233,
+            "chord": "Em"
+        },
+        {
+            "startTime": 215.233,
+            "endTime": 216.567,
+            "chord": "C"
+        },
+        {
+            "startTime": 216.567,
+            "endTime": 217.1,
+            "chord": "G/B"
+        },
+        {
+            "startTime": 217.1,
+            "endTime": 217.567,
+            "chord": "C"
+        },
+        {
+            "startTime": 217.567,
+            "endTime": 218.7,
+            "chord": "G"
+        }
+    ],
+    "keyList": [
+        {
+            "startTime": 0.0,
+            "endTime": 1.4,
+            "key": "N"
+        },
+        {
+            "startTime": 1.4,
+            "endTime": 221.4667,
+            "key": "G"
+        },
+        {
+            "startTime": 221.4667,
+            "endTime": 238.9,
+            "key": "N"
+        }
+    ]
+}

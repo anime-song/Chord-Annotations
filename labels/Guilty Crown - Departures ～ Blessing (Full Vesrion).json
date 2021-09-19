@@ -1,0 +1,681 @@
+{
+    "chordList": [
+        {
+            "startTime": 0.0,
+            "endTime": 24.8,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 24.8,
+            "endTime": 25.8,
+            "chord": "Gadd9"
+        },
+        {
+            "startTime": 25.8,
+            "endTime": 26.4,
+            "chord": "G"
+        },
+        {
+            "startTime": 26.4,
+            "endTime": 27.067,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 27.067,
+            "endTime": 27.933,
+            "chord": "Bbaug"
+        },
+        {
+            "startTime": 27.933,
+            "endTime": 29.433,
+            "chord": "F#m7/B"
+        },
+        {
+            "startTime": 29.433,
+            "endTime": 31.3,
+            "chord": "Bm7(9)"
+        },
+        {
+            "startTime": 31.3,
+            "endTime": 32.9,
+            "chord": "Em"
+        },
+        {
+            "startTime": 32.9,
+            "endTime": 33.8,
+            "chord": "D"
+        },
+        {
+            "startTime": 33.8,
+            "endTime": 34.567,
+            "chord": "A/D"
+        },
+        {
+            "startTime": 34.567,
+            "endTime": 36.233,
+            "chord": "F#m7/B"
+        },
+        {
+            "startTime": 36.233,
+            "endTime": 37.967,
+            "chord": "DM7"
+        },
+        {
+            "startTime": 37.967,
+            "endTime": 39.6,
+            "chord": "G7(9)"
+        },
+        {
+            "startTime": 39.6,
+            "endTime": 41.1,
+            "chord": "A"
+        },
+        {
+            "startTime": 41.1,
+            "endTime": 42.933,
+            "chord": "Bm7"
+        },
+        {
+            "startTime": 42.933,
+            "endTime": 44.633,
+            "chord": "F#m7"
+        },
+        {
+            "startTime": 44.633,
+            "endTime": 46.267,
+            "chord": "G"
+        },
+        {
+            "startTime": 46.267,
+            "endTime": 47.933,
+            "chord": "A"
+        },
+        {
+            "startTime": 47.933,
+            "endTime": 54.6,
+            "chord": "Bm7(9)"
+        },
+        {
+            "startTime": 54.6,
+            "endTime": 57.333,
+            "chord": "G6"
+        },
+        {
+            "startTime": 57.333,
+            "endTime": 57.667,
+            "chord": "Em7/A"
+        },
+        {
+            "startTime": 57.667,
+            "endTime": 57.933,
+            "chord": "Em7/A"
+        },
+        {
+            "startTime": 57.933,
+            "endTime": 61.3,
+            "chord": "Asus4"
+        },
+        {
+            "startTime": 61.3,
+            "endTime": 68.133,
+            "chord": "Bm7"
+        },
+        {
+            "startTime": 68.133,
+            "endTime": 71.267,
+            "chord": "Gadd9"
+        },
+        {
+            "startTime": 71.267,
+            "endTime": 81.267,
+            "chord": "Asus4"
+        },
+        {
+            "startTime": 81.267,
+            "endTime": 82.933,
+            "chord": "Gadd9"
+        },
+        {
+            "startTime": 82.933,
+            "endTime": 84.6,
+            "chord": "D69"
+        },
+        {
+            "startTime": 84.6,
+            "endTime": 86.267,
+            "chord": "Asus4"
+        },
+        {
+            "startTime": 86.267,
+            "endTime": 87.1,
+            "chord": "Bm7"
+        },
+        {
+            "startTime": 87.1,
+            "endTime": 87.933,
+            "chord": "D/A"
+        },
+        {
+            "startTime": 87.933,
+            "endTime": 89.667,
+            "chord": "GM7"
+        },
+        {
+            "startTime": 89.667,
+            "endTime": 91.267,
+            "chord": "D/G"
+        },
+        {
+            "startTime": 91.267,
+            "endTime": 91.867,
+            "chord": "A/C#"
+        },
+        {
+            "startTime": 91.867,
+            "endTime": 92.7,
+            "chord": "D"
+        },
+        {
+            "startTime": 92.7,
+            "endTime": 93.767,
+            "chord": "GM7"
+        },
+        {
+            "startTime": 93.767,
+            "endTime": 94.6,
+            "chord": "A"
+        },
+        {
+            "startTime": 94.6,
+            "endTime": 96.267,
+            "chord": "Gadd9"
+        },
+        {
+            "startTime": 96.267,
+            "endTime": 97.933,
+            "chord": "D"
+        },
+        {
+            "startTime": 97.933,
+            "endTime": 99.6,
+            "chord": "Asus4"
+        },
+        {
+            "startTime": 99.6,
+            "endTime": 100.433,
+            "chord": "Bm7"
+        },
+        {
+            "startTime": 100.433,
+            "endTime": 101.267,
+            "chord": "D/A"
+        },
+        {
+            "startTime": 101.267,
+            "endTime": 104.6,
+            "chord": "Gadd9"
+        },
+        {
+            "startTime": 104.6,
+            "endTime": 108.0,
+            "chord": "A"
+        },
+        {
+            "startTime": 108.0,
+            "endTime": 109.3,
+            "chord": "Asus4"
+        },
+        {
+            "startTime": 109.3,
+            "endTime": 109.6,
+            "chord": "A"
+        },
+        {
+            "startTime": 109.6,
+            "endTime": 111.033,
+            "chord": "G"
+        },
+        {
+            "startTime": 111.033,
+            "endTime": 111.267,
+            "chord": "G/A"
+        },
+        {
+            "startTime": 111.267,
+            "endTime": 114.6,
+            "chord": "Asus4"
+        },
+        {
+            "startTime": 114.6,
+            "endTime": 115.833,
+            "chord": "Bm7"
+        },
+        {
+            "startTime": 115.833,
+            "endTime": 116.033,
+            "chord": "GM7(9)"
+        },
+        {
+            "startTime": 116.033,
+            "endTime": 117.833,
+            "chord": "Gadd9"
+        },
+        {
+            "startTime": 117.833,
+            "endTime": 118.8,
+            "chord": "D/A"
+        },
+        {
+            "startTime": 118.8,
+            "endTime": 120.433,
+            "chord": "Asus4"
+        },
+        {
+            "startTime": 120.433,
+            "endTime": 121.267,
+            "chord": "A"
+        },
+        {
+            "startTime": 121.267,
+            "endTime": 122.733,
+            "chord": "Bm7"
+        },
+        {
+            "startTime": 122.733,
+            "endTime": 122.9,
+            "chord": "GM7(9)"
+        },
+        {
+            "startTime": 122.9,
+            "endTime": 124.6,
+            "chord": "Gadd9"
+        },
+        {
+            "startTime": 124.6,
+            "endTime": 126.033,
+            "chord": "D/A"
+        },
+        {
+            "startTime": 126.033,
+            "endTime": 127.1,
+            "chord": "Asus4"
+        },
+        {
+            "startTime": 127.1,
+            "endTime": 127.933,
+            "chord": "A"
+        },
+        {
+            "startTime": 127.933,
+            "endTime": 129.5,
+            "chord": "Bm7"
+        },
+        {
+            "startTime": 129.5,
+            "endTime": 131.233,
+            "chord": "Gadd9"
+        },
+        {
+            "startTime": 131.233,
+            "endTime": 131.9,
+            "chord": "D/A"
+        },
+        {
+            "startTime": 131.9,
+            "endTime": 134.567,
+            "chord": "Asus4"
+        },
+        {
+            "startTime": 134.567,
+            "endTime": 136.267,
+            "chord": "D/A"
+        },
+        {
+            "startTime": 136.267,
+            "endTime": 137.9,
+            "chord": "G/A"
+        },
+        {
+            "startTime": 137.9,
+            "endTime": 139.767,
+            "chord": "D/A"
+        },
+        {
+            "startTime": 139.767,
+            "endTime": 141.533,
+            "chord": "Asus4"
+        },
+        {
+            "startTime": 141.533,
+            "endTime": 142.833,
+            "chord": "A"
+        },
+        {
+            "startTime": 142.833,
+            "endTime": 144.467,
+            "chord": "Gadd9"
+        },
+        {
+            "startTime": 144.467,
+            "endTime": 145.233,
+            "chord": "G"
+        },
+        {
+            "startTime": 145.233,
+            "endTime": 146.133,
+            "chord": "Bbaug"
+        },
+        {
+            "startTime": 146.133,
+            "endTime": 147.533,
+            "chord": "F#m7/B"
+        },
+        {
+            "startTime": 147.533,
+            "endTime": 149.5,
+            "chord": "Bm7(9)"
+        },
+        {
+            "startTime": 149.5,
+            "endTime": 151.1,
+            "chord": "Gadd9"
+        },
+        {
+            "startTime": 151.1,
+            "endTime": 152.8,
+            "chord": "DM7"
+        },
+        {
+            "startTime": 152.8,
+            "endTime": 154.433,
+            "chord": "F#m7/B"
+        },
+        {
+            "startTime": 154.433,
+            "endTime": 156.167,
+            "chord": "DM7"
+        },
+        {
+            "startTime": 156.167,
+            "endTime": 157.8,
+            "chord": "G7(9)"
+        },
+        {
+            "startTime": 157.8,
+            "endTime": 159.3,
+            "chord": "A"
+        },
+        {
+            "startTime": 159.3,
+            "endTime": 161.1,
+            "chord": "Bm7"
+        },
+        {
+            "startTime": 161.1,
+            "endTime": 162.833,
+            "chord": "F#m7"
+        },
+        {
+            "startTime": 162.833,
+            "endTime": 164.467,
+            "chord": "G"
+        },
+        {
+            "startTime": 164.467,
+            "endTime": 166.133,
+            "chord": "A"
+        },
+        {
+            "startTime": 166.133,
+            "endTime": 172.8,
+            "chord": "Bm7(9)"
+        },
+        {
+            "startTime": 172.8,
+            "endTime": 175.933,
+            "chord": "G6"
+        },
+        {
+            "startTime": 175.933,
+            "endTime": 176.133,
+            "chord": "Em7/A"
+        },
+        {
+            "startTime": 176.133,
+            "endTime": 179.5,
+            "chord": "Asus4"
+        },
+        {
+            "startTime": 179.5,
+            "endTime": 186.167,
+            "chord": "Bm7"
+        },
+        {
+            "startTime": 186.167,
+            "endTime": 189.467,
+            "chord": "Gadd9"
+        },
+        {
+            "startTime": 189.467,
+            "endTime": 199.433,
+            "chord": "Asus4"
+        },
+        {
+            "startTime": 199.433,
+            "endTime": 201.133,
+            "chord": "Gadd9"
+        },
+        {
+            "startTime": 201.133,
+            "endTime": 202.8,
+            "chord": "D"
+        },
+        {
+            "startTime": 202.8,
+            "endTime": 204.467,
+            "chord": "Asus4"
+        },
+        {
+            "startTime": 204.467,
+            "endTime": 205.3,
+            "chord": "Bm7"
+        },
+        {
+            "startTime": 205.3,
+            "endTime": 206.133,
+            "chord": "A"
+        },
+        {
+            "startTime": 206.133,
+            "endTime": 207.8,
+            "chord": "GM7"
+        },
+        {
+            "startTime": 207.8,
+            "endTime": 209.467,
+            "chord": "D"
+        },
+        {
+            "startTime": 209.467,
+            "endTime": 210.1,
+            "chord": "A/C#"
+        },
+        {
+            "startTime": 210.1,
+            "endTime": 210.9,
+            "chord": "D"
+        },
+        {
+            "startTime": 210.9,
+            "endTime": 211.967,
+            "chord": "GM7"
+        },
+        {
+            "startTime": 211.967,
+            "endTime": 212.8,
+            "chord": "A"
+        },
+        {
+            "startTime": 212.8,
+            "endTime": 214.467,
+            "chord": "Gadd9"
+        },
+        {
+            "startTime": 214.467,
+            "endTime": 216.133,
+            "chord": "D"
+        },
+        {
+            "startTime": 216.133,
+            "endTime": 217.8,
+            "chord": "Asus4"
+        },
+        {
+            "startTime": 217.8,
+            "endTime": 218.6,
+            "chord": "Bm7"
+        },
+        {
+            "startTime": 218.6,
+            "endTime": 219.433,
+            "chord": "D/A"
+        },
+        {
+            "startTime": 219.433,
+            "endTime": 222.8,
+            "chord": "Gadd9"
+        },
+        {
+            "startTime": 222.8,
+            "endTime": 226.2,
+            "chord": "A"
+        },
+        {
+            "startTime": 226.2,
+            "endTime": 227.467,
+            "chord": "Asus4"
+        },
+        {
+            "startTime": 227.467,
+            "endTime": 227.8,
+            "chord": "G/A"
+        },
+        {
+            "startTime": 227.8,
+            "endTime": 229.233,
+            "chord": "G"
+        },
+        {
+            "startTime": 229.233,
+            "endTime": 229.667,
+            "chord": "G/A"
+        },
+        {
+            "startTime": 229.667,
+            "endTime": 232.8,
+            "chord": "Asus4"
+        },
+        {
+            "startTime": 232.8,
+            "endTime": 234.067,
+            "chord": "Bm7"
+        },
+        {
+            "startTime": 234.067,
+            "endTime": 234.233,
+            "chord": "GM7(9)"
+        },
+        {
+            "startTime": 234.233,
+            "endTime": 235.933,
+            "chord": "Gadd9"
+        },
+        {
+            "startTime": 235.933,
+            "endTime": 236.1,
+            "chord": "G/A"
+        },
+        {
+            "startTime": 236.1,
+            "endTime": 237.567,
+            "chord": "D/A"
+        },
+        {
+            "startTime": 237.567,
+            "endTime": 238.633,
+            "chord": "Asus4"
+        },
+        {
+            "startTime": 238.633,
+            "endTime": 239.467,
+            "chord": "A"
+        },
+        {
+            "startTime": 239.467,
+            "endTime": 241.067,
+            "chord": "Bm7"
+        },
+        {
+            "startTime": 241.067,
+            "endTime": 242.8,
+            "chord": "Gadd9"
+        },
+        {
+            "startTime": 242.8,
+            "endTime": 244.267,
+            "chord": "D/A"
+        },
+        {
+            "startTime": 244.267,
+            "endTime": 246.133,
+            "chord": "Asus4"
+        },
+        {
+            "startTime": 246.133,
+            "endTime": 247.967,
+            "chord": "D/A"
+        },
+        {
+            "startTime": 247.967,
+            "endTime": 249.467,
+            "chord": "G/A"
+        },
+        {
+            "startTime": 249.467,
+            "endTime": 251.333,
+            "chord": "D/A"
+        },
+        {
+            "startTime": 251.333,
+            "endTime": 252.7,
+            "chord": "Asus4"
+        },
+        {
+            "startTime": 252.7,
+            "endTime": 254.733,
+            "chord": "A"
+        },
+        {
+            "startTime": 254.733,
+            "endTime": 266.7,
+            "chord": "GM7"
+        },
+        {
+            "startTime": 266.7,
+            "endTime": 267.0,
+            "chord": "N.C."
+        }
+    ],
+    "keyList": [
+        {
+            "startTime": 0.0,
+            "endTime": 266.7,
+            "key": "D"
+        },
+        {
+            "startTime": 266.7,
+            "endTime": 307.1667,
+            "key": "N"
+        }
+    ]
+}
