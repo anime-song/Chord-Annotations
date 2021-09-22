@@ -1,0 +1,56 @@
+{
+    "chordList": [
+        {
+            "startTime": 0.0,
+            "endTime": 26.233,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 26.233,
+            "endTime": 103.7,
+            "chord": "Dbm"
+        },
+        {
+            "startTime": 103.7,
+            "endTime": 106.167,
+            "chord": "Dbm/E"
+        },
+        {
+            "startTime": 106.167,
+            "endTime": 226.2,
+            "chord": "Dbm"
+        }
+    ],
+    "keyList": [
+        {
+            "startTime": 0.0,
+            "endTime": 4.3667,
+            "key": "N"
+        },
+        {
+            "startTime": 4.3667,
+            "endTime": 10.5667,
+            "key": "Ab"
+        },
+        {
+            "startTime": 10.5667,
+            "endTime": 18.0,
+            "key": "E"
+        },
+        {
+            "startTime": 18.0,
+            "endTime": 24.3,
+            "key": "N"
+        },
+        {
+            "startTime": 24.3,
+            "endTime": 225.5333,
+            "key": "E"
+        },
+        {
+            "startTime": 225.5333,
+            "endTime": 238.9,
+            "key": "N"
+        }
+    ]
+}

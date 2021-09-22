@@ -1,0 +1,81 @@
+{
+    "chordList": [
+        {
+            "startTime": 0.0,
+            "endTime": 32.3,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 32.3,
+            "endTime": 39.3,
+            "chord": "Bm"
+        },
+        {
+            "startTime": 39.3,
+            "endTime": 39.433,
+            "chord": "F#m7/B"
+        },
+        {
+            "startTime": 39.433,
+            "endTime": 42.933,
+            "chord": "F#m7"
+        },
+        {
+            "startTime": 42.933,
+            "endTime": 45.433,
+            "chord": "G"
+        },
+        {
+            "startTime": 45.433,
+            "endTime": 46.333,
+            "chord": "A6"
+        },
+        {
+            "startTime": 46.333,
+            "endTime": 247.533,
+            "chord": "Bm"
+        },
+        {
+            "startTime": 247.533,
+            "endTime": 249.833,
+            "chord": "G/B"
+        },
+        {
+            "startTime": 249.833,
+            "endTime": 288.967,
+            "chord": "Bm"
+        },
+        {
+            "startTime": 288.967,
+            "endTime": 289.267,
+            "chord": "N.C."
+        }
+    ],
+    "keyList": [
+        {
+            "startTime": 0.0,
+            "endTime": 0.8,
+            "key": "N"
+        },
+        {
+            "startTime": 0.8,
+            "endTime": 30.5667,
+            "key": "D"
+        },
+        {
+            "startTime": 30.5667,
+            "endTime": 286.4667,
+            "key": "Bm"
+        },
+        {
+            "startTime": 286.4667,
+            "endTime": 289.3,
+            "key": "D"
+        },
+        {
+            "startTime": 289.3,
+            "endTime": 307.1667,
+            "key": "N"
+        }
+    ]
+}

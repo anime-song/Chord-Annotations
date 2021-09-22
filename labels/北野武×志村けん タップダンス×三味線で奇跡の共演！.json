@@ -1,0 +1,76 @@
+{
+    "chordList": [
+        {
+            "startTime": 0.0,
+            "endTime": 4.0,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 4.0,
+            "endTime": 8.7,
+            "chord": "Db7"
+        },
+        {
+            "startTime": 8.7,
+            "endTime": 8.833,
+            "chord": "Db7"
+        },
+        {
+            "startTime": 8.833,
+            "endTime": 40.433,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 40.433,
+            "endTime": 41.667,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 41.667,
+            "endTime": 110.467,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 110.467,
+            "endTime": 111.967,
+            "chord": "N.C."
+        }
+    ],
+    "keyList": [
+        {
+            "startTime": 0.0,
+            "endTime": 4.0333,
+            "key": "N"
+        },
+        {
+            "startTime": 4.0333,
+            "endTime": 17.1667,
+            "key": "Db"
+        },
+        {
+            "startTime": 17.1667,
+            "endTime": 24.8667,
+            "key": "N"
+        },
+        {
+            "startTime": 24.8667,
+            "endTime": 27.5667,
+            "key": "Db"
+        },
+        {
+            "startTime": 27.5667,
+            "endTime": 31.5333,
+            "key": "N"
+        },
+        {
+            "startTime": 31.5333,
+            "endTime": 109.2667,
+            "key": "Db"
+        },
+        {
+            "startTime": 109.2667,
+            "endTime": 136.5,
+            "key": "N"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "chordList": [
+        {
+            "startTime": 0.0,
+            "endTime": 10.5,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 10.5,
+            "endTime": 18.1,
+            "chord": "Dbm"
+        },
+        {
+            "startTime": 18.1,
+            "endTime": 19.367,
+            "chord": "AM7/C#"
+        },
+        {
+            "startTime": 19.367,
+            "endTime": 20.467,
+            "chord": "F#m7/C#"
+        },
+        {
+            "startTime": 20.467,
+            "endTime": 107.733,
+            "chord": "Dbm"
+        },
+        {
+            "startTime": 107.733,
+            "endTime": 110.5,
+            "chord": "Abm"
+        },
+        {
+            "startTime": 110.5,
+            "endTime": 210.567,
+            "chord": "Dbm"
+        }
+    ],
+    "keyList": [
+        {
+            "startTime": 0.0,
+            "endTime": 0.9333,
+            "key": "N"
+        },
+        {
+            "startTime": 0.9333,
+            "endTime": 93.3,
+            "key": "E"
+        },
+        {
+            "startTime": 93.3,
+            "endTime": 138.0,
+            "key": "Dbm"
+        },
+        {
+            "startTime": 138.0,
+            "endTime": 153.2667,
+            "key": "E"
+        },
+        {
+            "startTime": 153.2667,
+            "endTime": 164.7,
+            "key": "Dbm"
+        },
+        {
+            "startTime": 164.7,
+            "endTime": 209.0667,
+            "key": "E"
+        },
+        {
+            "startTime": 209.0667,
+            "endTime": 238.9,
+            "key": "N"
+        }
+    ]
+}

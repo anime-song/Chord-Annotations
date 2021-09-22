@@ -1,0 +1,91 @@
+{
+    "chordList": [
+        {
+            "startTime": 0.0,
+            "endTime": 0.267,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 0.267,
+            "endTime": 0.933,
+            "chord": "G"
+        },
+        {
+            "startTime": 0.933,
+            "endTime": 2.4,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 2.4,
+            "endTime": 56.767,
+            "chord": "G"
+        },
+        {
+            "startTime": 56.767,
+            "endTime": 68.633,
+            "chord": "G7"
+        },
+        {
+            "startTime": 68.633,
+            "endTime": 75.133,
+            "chord": "G"
+        },
+        {
+            "startTime": 75.133,
+            "endTime": 77.0,
+            "chord": "Em7"
+        },
+        {
+            "startTime": 77.0,
+            "endTime": 85.433,
+            "chord": "G"
+        },
+        {
+            "startTime": 85.433,
+            "endTime": 87.367,
+            "chord": "Em7"
+        },
+        {
+            "startTime": 87.367,
+            "endTime": 87.767,
+            "chord": "Em7"
+        },
+        {
+            "startTime": 87.767,
+            "endTime": 168.033,
+            "chord": "G"
+        },
+        {
+            "startTime": 168.033,
+            "endTime": 170.6,
+            "chord": "Em7"
+        },
+        {
+            "startTime": 170.6,
+            "endTime": 197.0,
+            "chord": "G"
+        },
+        {
+            "startTime": 197.0,
+            "endTime": 197.7,
+            "chord": "N.C."
+        }
+    ],
+    "keyList": [
+        {
+            "startTime": 0.0,
+            "endTime": 0.2667,
+            "key": "N"
+        },
+        {
+            "startTime": 0.2667,
+            "endTime": 201.3,
+            "key": "G"
+        },
+        {
+            "startTime": 201.3,
+            "endTime": 238.9,
+            "key": "N"
+        }
+    ]
+}

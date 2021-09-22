@@ -1,0 +1,71 @@
+{
+    "chordList": [
+        {
+            "startTime": 0.0,
+            "endTime": 1.5,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 1.5,
+            "endTime": 4.167,
+            "chord": "GM7"
+        },
+        {
+            "startTime": 4.167,
+            "endTime": 5.4,
+            "chord": "Em7(9)"
+        },
+        {
+            "startTime": 5.4,
+            "endTime": 6.533,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 6.533,
+            "endTime": 10.967,
+            "chord": "Em"
+        },
+        {
+            "startTime": 10.967,
+            "endTime": 12.033,
+            "chord": "C/E"
+        },
+        {
+            "startTime": 12.033,
+            "endTime": 144.733,
+            "chord": "Em"
+        },
+        {
+            "startTime": 144.733,
+            "endTime": 145.767,
+            "chord": "Esus2"
+        },
+        {
+            "startTime": 145.767,
+            "endTime": 173.533,
+            "chord": "Em"
+        },
+        {
+            "startTime": 173.533,
+            "endTime": 173.8,
+            "chord": "N.C."
+        }
+    ],
+    "keyList": [
+        {
+            "startTime": 0.0,
+            "endTime": 0.5667,
+            "key": "N"
+        },
+        {
+            "startTime": 0.5667,
+            "endTime": 174.0,
+            "key": "Em"
+        },
+        {
+            "startTime": 174.0,
+            "endTime": 204.7667,
+            "key": "N"
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "chordList": [
+        {
+            "startTime": 0.0,
+            "endTime": 13.033,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 13.033,
+            "endTime": 15.0,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 15.0,
+            "endTime": 16.067,
+            "chord": "F#7(b9)"
+        },
+        {
+            "startTime": 16.067,
+            "endTime": 36.367,
+            "chord": "F#7"
+        },
+        {
+            "startTime": 36.367,
+            "endTime": 61.867,
+            "chord": "F#m7"
+        },
+        {
+            "startTime": 61.867,
+            "endTime": 69.833,
+            "chord": "F#7(#9)"
+        },
+        {
+            "startTime": 69.833,
+            "endTime": 78.967,
+            "chord": "F#7"
+        },
+        {
+            "startTime": 78.967,
+            "endTime": 82.6,
+            "chord": "F#7(#9)"
+        },
+        {
+            "startTime": 82.6,
+            "endTime": 86.5,
+            "chord": "F#7"
+        },
+        {
+            "startTime": 86.5,
+            "endTime": 88.3,
+            "chord": "F#m7"
+        },
+        {
+            "startTime": 88.3,
+            "endTime": 162.533,
+            "chord": "F#7"
+        },
+        {
+            "startTime": 162.533,
+            "endTime": 164.867,
+            "chord": "F#7(#9)"
+        },
+        {
+            "startTime": 164.867,
+            "endTime": 166.6,
+            "chord": "F#dim7"
+        },
+        {
+            "startTime": 166.6,
+            "endTime": 168.367,
+            "chord": "Bm/F#"
+        },
+        {
+            "startTime": 168.367,
+            "endTime": 198.267,
+            "chord": "F#7"
+        },
+        {
+            "startTime": 198.267,
+            "endTime": 202.4,
+            "chord": "F#m7"
+        },
+        {
+            "startTime": 202.4,
+            "endTime": 208.467,
+            "chord": "F#7"
+        }
+    ],
+    "keyList": [
+        {
+            "startTime": 0.0,
+            "endTime": 2.4,
+            "key": "N"
+        },
+        {
+            "startTime": 2.4,
+            "endTime": 112.7667,
+            "key": "Gb"
+        },
+        {
+            "startTime": 112.7667,
+            "endTime": 129.0667,
+            "key": "B"
+        },
+        {
+            "startTime": 129.0667,
+            "endTime": 172.4667,
+            "key": "Gb"
+        },
+        {
+            "startTime": 172.4667,
+            "endTime": 208.5,
+            "key": "B"
+        },
+        {
+            "startTime": 208.5,
+            "endTime": 238.9,
+            "key": "N"
+        }
+    ]
+}

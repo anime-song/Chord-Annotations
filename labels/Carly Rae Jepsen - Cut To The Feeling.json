@@ -1,0 +1,731 @@
+{
+    "chordList": [
+        {
+            "startTime": 0.0,
+            "endTime": 25.1,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 25.1,
+            "endTime": 25.6,
+            "chord": "A5"
+        },
+        {
+            "startTime": 25.6,
+            "endTime": 28.533,
+            "chord": "A5/G"
+        },
+        {
+            "startTime": 28.533,
+            "endTime": 28.733,
+            "chord": "A/G"
+        },
+        {
+            "startTime": 28.733,
+            "endTime": 30.967,
+            "chord": "A"
+        },
+        {
+            "startTime": 30.967,
+            "endTime": 31.9,
+            "chord": "D"
+        },
+        {
+            "startTime": 31.9,
+            "endTime": 33.2,
+            "chord": "Dsus2"
+        },
+        {
+            "startTime": 33.2,
+            "endTime": 37.6,
+            "chord": "A/G"
+        },
+        {
+            "startTime": 37.6,
+            "endTime": 38.367,
+            "chord": "F#m"
+        },
+        {
+            "startTime": 38.367,
+            "endTime": 39.667,
+            "chord": "D"
+        },
+        {
+            "startTime": 39.667,
+            "endTime": 40.667,
+            "chord": "A/C#"
+        },
+        {
+            "startTime": 40.667,
+            "endTime": 41.767,
+            "chord": "Esus4"
+        },
+        {
+            "startTime": 41.767,
+            "endTime": 42.533,
+            "chord": "F#m"
+        },
+        {
+            "startTime": 42.533,
+            "endTime": 43.833,
+            "chord": "D"
+        },
+        {
+            "startTime": 43.833,
+            "endTime": 44.633,
+            "chord": "A/C#"
+        },
+        {
+            "startTime": 44.633,
+            "endTime": 45.933,
+            "chord": "Esus4"
+        },
+        {
+            "startTime": 45.933,
+            "endTime": 46.7,
+            "chord": "F#m"
+        },
+        {
+            "startTime": 46.7,
+            "endTime": 48.033,
+            "chord": "D"
+        },
+        {
+            "startTime": 48.033,
+            "endTime": 48.8,
+            "chord": "A/C#"
+        },
+        {
+            "startTime": 48.8,
+            "endTime": 50.1,
+            "chord": "E"
+        },
+        {
+            "startTime": 50.1,
+            "endTime": 50.9,
+            "chord": "F#m"
+        },
+        {
+            "startTime": 50.9,
+            "endTime": 52.2,
+            "chord": "D"
+        },
+        {
+            "startTime": 52.2,
+            "endTime": 52.967,
+            "chord": "Aadd9/C#"
+        },
+        {
+            "startTime": 52.967,
+            "endTime": 54.267,
+            "chord": "Esus4"
+        },
+        {
+            "startTime": 54.267,
+            "endTime": 55.067,
+            "chord": "F#m"
+        },
+        {
+            "startTime": 55.067,
+            "endTime": 56.367,
+            "chord": "D"
+        },
+        {
+            "startTime": 56.367,
+            "endTime": 57.367,
+            "chord": "A/C#"
+        },
+        {
+            "startTime": 57.367,
+            "endTime": 58.467,
+            "chord": "Esus4"
+        },
+        {
+            "startTime": 58.467,
+            "endTime": 59.233,
+            "chord": "F#m"
+        },
+        {
+            "startTime": 59.233,
+            "endTime": 60.533,
+            "chord": "D"
+        },
+        {
+            "startTime": 60.533,
+            "endTime": 61.367,
+            "chord": "A/C#"
+        },
+        {
+            "startTime": 61.367,
+            "endTime": 61.533,
+            "chord": "A/E"
+        },
+        {
+            "startTime": 61.533,
+            "endTime": 62.633,
+            "chord": "Esus4"
+        },
+        {
+            "startTime": 62.633,
+            "endTime": 63.4,
+            "chord": "F#m"
+        },
+        {
+            "startTime": 63.4,
+            "endTime": 64.7,
+            "chord": "D"
+        },
+        {
+            "startTime": 64.7,
+            "endTime": 65.5,
+            "chord": "Aadd9/C#"
+        },
+        {
+            "startTime": 65.5,
+            "endTime": 66.8,
+            "chord": "Esus4"
+        },
+        {
+            "startTime": 66.8,
+            "endTime": 67.6,
+            "chord": "F#m"
+        },
+        {
+            "startTime": 67.6,
+            "endTime": 68.867,
+            "chord": "D"
+        },
+        {
+            "startTime": 68.867,
+            "endTime": 69.667,
+            "chord": "Aadd9/C#"
+        },
+        {
+            "startTime": 69.667,
+            "endTime": 70.967,
+            "chord": "Esus4"
+        },
+        {
+            "startTime": 70.967,
+            "endTime": 89.767,
+            "chord": "F#m"
+        },
+        {
+            "startTime": 89.767,
+            "endTime": 94.733,
+            "chord": "F#m7"
+        },
+        {
+            "startTime": 94.733,
+            "endTime": 95.233,
+            "chord": "F#m"
+        },
+        {
+            "startTime": 95.233,
+            "endTime": 95.667,
+            "chord": "F#m7"
+        },
+        {
+            "startTime": 95.667,
+            "endTime": 98.233,
+            "chord": "A"
+        },
+        {
+            "startTime": 98.233,
+            "endTime": 100.167,
+            "chord": "A/G"
+        },
+        {
+            "startTime": 100.167,
+            "endTime": 101.0,
+            "chord": "F#m"
+        },
+        {
+            "startTime": 101.0,
+            "endTime": 102.267,
+            "chord": "D"
+        },
+        {
+            "startTime": 102.267,
+            "endTime": 103.067,
+            "chord": "A/C#"
+        },
+        {
+            "startTime": 103.067,
+            "endTime": 104.367,
+            "chord": "Esus4"
+        },
+        {
+            "startTime": 104.367,
+            "endTime": 105.167,
+            "chord": "F#m"
+        },
+        {
+            "startTime": 105.167,
+            "endTime": 106.467,
+            "chord": "D"
+        },
+        {
+            "startTime": 106.467,
+            "endTime": 107.233,
+            "chord": "A/C#"
+        },
+        {
+            "startTime": 107.233,
+            "endTime": 108.533,
+            "chord": "Esus4"
+        },
+        {
+            "startTime": 108.533,
+            "endTime": 109.333,
+            "chord": "F#m"
+        },
+        {
+            "startTime": 109.333,
+            "endTime": 110.633,
+            "chord": "D"
+        },
+        {
+            "startTime": 110.633,
+            "endTime": 111.433,
+            "chord": "A/C#"
+        },
+        {
+            "startTime": 111.433,
+            "endTime": 112.7,
+            "chord": "E"
+        },
+        {
+            "startTime": 112.7,
+            "endTime": 113.5,
+            "chord": "F#m"
+        },
+        {
+            "startTime": 113.5,
+            "endTime": 114.8,
+            "chord": "D"
+        },
+        {
+            "startTime": 114.8,
+            "endTime": 115.6,
+            "chord": "A/C#"
+        },
+        {
+            "startTime": 115.6,
+            "endTime": 116.9,
+            "chord": "Esus4"
+        },
+        {
+            "startTime": 116.9,
+            "endTime": 117.667,
+            "chord": "F#m"
+        },
+        {
+            "startTime": 117.667,
+            "endTime": 118.967,
+            "chord": "D"
+        },
+        {
+            "startTime": 118.967,
+            "endTime": 119.8,
+            "chord": "A/C#"
+        },
+        {
+            "startTime": 119.8,
+            "endTime": 120.0,
+            "chord": "A/E"
+        },
+        {
+            "startTime": 120.0,
+            "endTime": 121.067,
+            "chord": "Esus4"
+        },
+        {
+            "startTime": 121.067,
+            "endTime": 121.833,
+            "chord": "F#m"
+        },
+        {
+            "startTime": 121.833,
+            "endTime": 123.133,
+            "chord": "D"
+        },
+        {
+            "startTime": 123.133,
+            "endTime": 123.933,
+            "chord": "A/C#"
+        },
+        {
+            "startTime": 123.933,
+            "endTime": 125.233,
+            "chord": "Esus4"
+        },
+        {
+            "startTime": 125.233,
+            "endTime": 126.0,
+            "chord": "F#m"
+        },
+        {
+            "startTime": 126.0,
+            "endTime": 127.333,
+            "chord": "D"
+        },
+        {
+            "startTime": 127.333,
+            "endTime": 128.1,
+            "chord": "Aadd9/C#"
+        },
+        {
+            "startTime": 128.1,
+            "endTime": 129.4,
+            "chord": "Esus4"
+        },
+        {
+            "startTime": 129.4,
+            "endTime": 130.2,
+            "chord": "F#m"
+        },
+        {
+            "startTime": 130.2,
+            "endTime": 131.5,
+            "chord": "D"
+        },
+        {
+            "startTime": 131.5,
+            "endTime": 132.3,
+            "chord": "A/C#"
+        },
+        {
+            "startTime": 132.3,
+            "endTime": 133.667,
+            "chord": "Esus4"
+        },
+        {
+            "startTime": 133.667,
+            "endTime": 135.867,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 135.867,
+            "endTime": 136.3,
+            "chord": "Esus4"
+        },
+        {
+            "startTime": 136.3,
+            "endTime": 139.3,
+            "chord": "A5/E"
+        },
+        {
+            "startTime": 139.3,
+            "endTime": 141.4,
+            "chord": "A/E"
+        },
+        {
+            "startTime": 141.4,
+            "endTime": 141.933,
+            "chord": "F#m7"
+        },
+        {
+            "startTime": 141.933,
+            "endTime": 146.133,
+            "chord": "F#m7"
+        },
+        {
+            "startTime": 146.133,
+            "endTime": 147.2,
+            "chord": "F#m7"
+        },
+        {
+            "startTime": 147.2,
+            "endTime": 148.533,
+            "chord": "F#m7"
+        },
+        {
+            "startTime": 148.533,
+            "endTime": 148.667,
+            "chord": "A6"
+        },
+        {
+            "startTime": 148.667,
+            "endTime": 149.467,
+            "chord": "D/A"
+        },
+        {
+            "startTime": 149.467,
+            "endTime": 158.633,
+            "chord": "A"
+        },
+        {
+            "startTime": 158.633,
+            "endTime": 159.433,
+            "chord": "F#m"
+        },
+        {
+            "startTime": 159.433,
+            "endTime": 160.733,
+            "chord": "D"
+        },
+        {
+            "startTime": 160.733,
+            "endTime": 161.5,
+            "chord": "A/C#"
+        },
+        {
+            "startTime": 161.5,
+            "endTime": 162.8,
+            "chord": "Esus4"
+        },
+        {
+            "startTime": 162.8,
+            "endTime": 163.567,
+            "chord": "F#m"
+        },
+        {
+            "startTime": 163.567,
+            "endTime": 164.9,
+            "chord": "D"
+        },
+        {
+            "startTime": 164.9,
+            "endTime": 165.667,
+            "chord": "A/C#"
+        },
+        {
+            "startTime": 165.667,
+            "endTime": 166.967,
+            "chord": "Esus4"
+        },
+        {
+            "startTime": 166.967,
+            "endTime": 167.767,
+            "chord": "F#m"
+        },
+        {
+            "startTime": 167.767,
+            "endTime": 169.067,
+            "chord": "D"
+        },
+        {
+            "startTime": 169.067,
+            "endTime": 169.867,
+            "chord": "A/C#"
+        },
+        {
+            "startTime": 169.867,
+            "endTime": 170.567,
+            "chord": "Esus4"
+        },
+        {
+            "startTime": 170.567,
+            "endTime": 171.133,
+            "chord": "E"
+        },
+        {
+            "startTime": 171.133,
+            "endTime": 171.933,
+            "chord": "F#m"
+        },
+        {
+            "startTime": 171.933,
+            "endTime": 173.233,
+            "chord": "D"
+        },
+        {
+            "startTime": 173.233,
+            "endTime": 174.033,
+            "chord": "A/C#"
+        },
+        {
+            "startTime": 174.033,
+            "endTime": 175.333,
+            "chord": "E"
+        },
+        {
+            "startTime": 175.333,
+            "endTime": 176.1,
+            "chord": "F#m"
+        },
+        {
+            "startTime": 176.1,
+            "endTime": 177.4,
+            "chord": "D"
+        },
+        {
+            "startTime": 177.4,
+            "endTime": 178.433,
+            "chord": "A/C#"
+        },
+        {
+            "startTime": 178.433,
+            "endTime": 179.5,
+            "chord": "Esus4"
+        },
+        {
+            "startTime": 179.5,
+            "endTime": 180.3,
+            "chord": "F#m"
+        },
+        {
+            "startTime": 180.3,
+            "endTime": 181.567,
+            "chord": "D"
+        },
+        {
+            "startTime": 181.567,
+            "endTime": 182.367,
+            "chord": "A/C#"
+        },
+        {
+            "startTime": 182.367,
+            "endTime": 183.667,
+            "chord": "Esus4"
+        },
+        {
+            "startTime": 183.667,
+            "endTime": 184.467,
+            "chord": "F#m"
+        },
+        {
+            "startTime": 184.467,
+            "endTime": 185.767,
+            "chord": "D"
+        },
+        {
+            "startTime": 185.767,
+            "endTime": 186.533,
+            "chord": "Aadd9/C#"
+        },
+        {
+            "startTime": 186.533,
+            "endTime": 187.833,
+            "chord": "Esus4"
+        },
+        {
+            "startTime": 187.833,
+            "endTime": 188.633,
+            "chord": "F#m"
+        },
+        {
+            "startTime": 188.633,
+            "endTime": 189.933,
+            "chord": "D"
+        },
+        {
+            "startTime": 189.933,
+            "endTime": 190.7,
+            "chord": "Aadd9/C#"
+        },
+        {
+            "startTime": 190.7,
+            "endTime": 192.033,
+            "chord": "Esus4"
+        },
+        {
+            "startTime": 192.033,
+            "endTime": 192.8,
+            "chord": "F#m"
+        },
+        {
+            "startTime": 192.8,
+            "endTime": 194.1,
+            "chord": "D"
+        },
+        {
+            "startTime": 194.1,
+            "endTime": 194.9,
+            "chord": "A/C#"
+        },
+        {
+            "startTime": 194.9,
+            "endTime": 196.2,
+            "chord": "Esus4"
+        },
+        {
+            "startTime": 196.2,
+            "endTime": 196.967,
+            "chord": "F#m"
+        },
+        {
+            "startTime": 196.967,
+            "endTime": 198.267,
+            "chord": "D"
+        },
+        {
+            "startTime": 198.267,
+            "endTime": 199.067,
+            "chord": "A/C#"
+        },
+        {
+            "startTime": 199.067,
+            "endTime": 200.367,
+            "chord": "Esus4"
+        },
+        {
+            "startTime": 200.367,
+            "endTime": 201.133,
+            "chord": "F#m"
+        },
+        {
+            "startTime": 201.133,
+            "endTime": 202.467,
+            "chord": "D"
+        },
+        {
+            "startTime": 202.467,
+            "endTime": 203.233,
+            "chord": "Aadd9/C#"
+        },
+        {
+            "startTime": 203.233,
+            "endTime": 204.533,
+            "chord": "Esus4"
+        },
+        {
+            "startTime": 204.533,
+            "endTime": 205.333,
+            "chord": "F#m"
+        },
+        {
+            "startTime": 205.333,
+            "endTime": 206.633,
+            "chord": "D"
+        },
+        {
+            "startTime": 206.633,
+            "endTime": 207.433,
+            "chord": "A/C#"
+        },
+        {
+            "startTime": 207.433,
+            "endTime": 209.633,
+            "chord": "Esus4"
+        },
+        {
+            "startTime": 209.633,
+            "endTime": 210.4,
+            "chord": "N.C."
+        }
+    ],
+    "keyList": [
+        {
+            "startTime": 0.0,
+            "endTime": 211.8,
+            "key": "A"
+        },
+        {
+            "startTime": 211.8,
+            "endTime": 216.5333,
+            "key": "N"
+        },
+        {
+            "startTime": 216.5333,
+            "endTime": 221.8667,
+            "key": "A"
+        },
+        {
+            "startTime": 221.8667,
+            "endTime": 238.9,
+            "key": "N"
+        }
+    ]
+}

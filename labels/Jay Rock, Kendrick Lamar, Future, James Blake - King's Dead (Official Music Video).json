@@ -1,0 +1,161 @@
+{
+    "chordList": [
+        {
+            "startTime": 0.0,
+            "endTime": 4.967,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 4.967,
+            "endTime": 69.333,
+            "chord": "Cm"
+        },
+        {
+            "startTime": 69.333,
+            "endTime": 110.233,
+            "chord": "C"
+        },
+        {
+            "startTime": 110.233,
+            "endTime": 142.6,
+            "chord": "Cm"
+        },
+        {
+            "startTime": 142.6,
+            "endTime": 145.4,
+            "chord": "Cm/E"
+        },
+        {
+            "startTime": 145.4,
+            "endTime": 147.2,
+            "chord": "F#"
+        },
+        {
+            "startTime": 147.2,
+            "endTime": 148.9,
+            "chord": "A"
+        },
+        {
+            "startTime": 148.9,
+            "endTime": 150.667,
+            "chord": "F#"
+        },
+        {
+            "startTime": 150.667,
+            "endTime": 152.4,
+            "chord": "Asus2"
+        },
+        {
+            "startTime": 152.4,
+            "endTime": 186.733,
+            "chord": "Dbm7"
+        },
+        {
+            "startTime": 186.733,
+            "endTime": 219.267,
+            "chord": "Dbm"
+        },
+        {
+            "startTime": 219.267,
+            "endTime": 219.533,
+            "chord": "Dbm"
+        }
+    ],
+    "keyList": [
+        {
+            "startTime": 0.0,
+            "endTime": 4.9667,
+            "key": "N"
+        },
+        {
+            "startTime": 4.9667,
+            "endTime": 19.1,
+            "key": "Cm"
+        },
+        {
+            "startTime": 19.1,
+            "endTime": 24.7667,
+            "key": "G"
+        },
+        {
+            "startTime": 24.7667,
+            "endTime": 68.3667,
+            "key": "Cm"
+        },
+        {
+            "startTime": 68.3667,
+            "endTime": 79.2,
+            "key": "G"
+        },
+        {
+            "startTime": 79.2,
+            "endTime": 82.9,
+            "key": "Cm"
+        },
+        {
+            "startTime": 82.9,
+            "endTime": 87.8667,
+            "key": "G"
+        },
+        {
+            "startTime": 87.8667,
+            "endTime": 88.8,
+            "key": "Cm"
+        },
+        {
+            "startTime": 88.8,
+            "endTime": 101.6333,
+            "key": "G"
+        },
+        {
+            "startTime": 101.6333,
+            "endTime": 149.2667,
+            "key": "Cm"
+        },
+        {
+            "startTime": 149.2667,
+            "endTime": 150.6667,
+            "key": "Bb"
+        },
+        {
+            "startTime": 150.6667,
+            "endTime": 152.6667,
+            "key": "G"
+        },
+        {
+            "startTime": 152.6667,
+            "endTime": 217.6667,
+            "key": "Dbm"
+        },
+        {
+            "startTime": 217.6667,
+            "endTime": 220.6667,
+            "key": "E"
+        },
+        {
+            "startTime": 220.6667,
+            "endTime": 230.7,
+            "key": "N"
+        },
+        {
+            "startTime": 230.7,
+            "endTime": 239.9,
+            "key": "A"
+        },
+        {
+            "startTime": 239.9,
+            "endTime": 241.7667,
+            "key": "N"
+        },
+        {
+            "startTime": 241.7667,
+            "endTime": 255.2,
+            "key": "A"
+        },
+        {
+            "startTime": 255.2,
+            "endTime": 273.0333,
+            "key": "N"
+        }
+    ]
+}

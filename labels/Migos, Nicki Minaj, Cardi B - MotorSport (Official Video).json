@@ -1,0 +1,91 @@
+{
+    "chordList": [
+        {
+            "startTime": 0.0,
+            "endTime": 12.2,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 12.2,
+            "endTime": 37.3,
+            "chord": "Dm6"
+        },
+        {
+            "startTime": 37.3,
+            "endTime": 38.733,
+            "chord": "Dm"
+        },
+        {
+            "startTime": 38.733,
+            "endTime": 45.267,
+            "chord": "Dm7"
+        },
+        {
+            "startTime": 45.267,
+            "endTime": 67.0,
+            "chord": "Dm6"
+        },
+        {
+            "startTime": 67.0,
+            "endTime": 92.2,
+            "chord": "Dm7"
+        },
+        {
+            "startTime": 92.2,
+            "endTime": 221.667,
+            "chord": "Dm6"
+        },
+        {
+            "startTime": 221.667,
+            "endTime": 222.567,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 222.567,
+            "endTime": 234.767,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 234.767,
+            "endTime": 301.567,
+            "chord": "Dm6"
+        },
+        {
+            "startTime": 301.567,
+            "endTime": 303.067,
+            "chord": "Dm"
+        },
+        {
+            "startTime": 303.067,
+            "endTime": 306.267,
+            "chord": "Dm7(11)"
+        },
+        {
+            "startTime": 306.267,
+            "endTime": 309.033,
+            "chord": "Dm"
+        },
+        {
+            "startTime": 309.033,
+            "endTime": 316.0,
+            "chord": "Dm7"
+        },
+        {
+            "startTime": 316.0,
+            "endTime": 316.133,
+            "chord": "N.C."
+        }
+    ],
+    "keyList": [
+        {
+            "startTime": 0.0,
+            "endTime": 317.6667,
+            "key": "Dm"
+        },
+        {
+            "startTime": 317.6667,
+            "endTime": 341.3,
+            "key": "N"
+        }
+    ]
+}

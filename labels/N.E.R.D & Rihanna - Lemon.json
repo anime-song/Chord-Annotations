@@ -1,0 +1,131 @@
+{
+    "chordList": [
+        {
+            "startTime": 0.0,
+            "endTime": 6.567,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 6.567,
+            "endTime": 9.1,
+            "chord": "Cm"
+        },
+        {
+            "startTime": 9.1,
+            "endTime": 9.5,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 9.5,
+            "endTime": 21.8,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 21.8,
+            "endTime": 22.3,
+            "chord": "F5"
+        },
+        {
+            "startTime": 22.3,
+            "endTime": 25.567,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 25.567,
+            "endTime": 26.833,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 26.833,
+            "endTime": 29.033,
+            "chord": "Cm/E"
+        },
+        {
+            "startTime": 29.033,
+            "endTime": 31.3,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 31.3,
+            "endTime": 36.333,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 36.333,
+            "endTime": 37.1,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 37.1,
+            "endTime": 38.6,
+            "chord": "B"
+        },
+        {
+            "startTime": 38.6,
+            "endTime": 38.767,
+            "chord": "B"
+        },
+        {
+            "startTime": 38.767,
+            "endTime": 39.433,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 39.433,
+            "endTime": 39.533,
+            "chord": "Cm"
+        },
+        {
+            "startTime": 39.533,
+            "endTime": 40.933,
+            "chord": "Cm"
+        },
+        {
+            "startTime": 40.933,
+            "endTime": 41.033,
+            "chord": "N.C."
+        }
+    ],
+    "keyList": [
+        {
+            "startTime": 0.0,
+            "endTime": 4.1333,
+            "key": "N"
+        },
+        {
+            "startTime": 4.1333,
+            "endTime": 5.4333,
+            "key": "Ab"
+        },
+        {
+            "startTime": 5.4333,
+            "endTime": 12.8,
+            "key": "Cm"
+        },
+        {
+            "startTime": 12.8,
+            "endTime": 36.6333,
+            "key": "Eb"
+        },
+        {
+            "startTime": 36.6333,
+            "endTime": 43.5,
+            "key": "Cm"
+        },
+        {
+            "startTime": 43.5,
+            "endTime": 182.8,
+            "key": "Eb"
+        },
+        {
+            "startTime": 182.8,
+            "endTime": 186.1667,
+            "key": "Cm"
+        },
+        {
+            "startTime": 186.1667,
+            "endTime": 204.7667,
+            "key": "N"
+        }
+    ]
+}

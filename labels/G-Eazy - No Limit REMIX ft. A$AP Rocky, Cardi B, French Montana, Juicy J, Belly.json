@@ -1,0 +1,76 @@
+{
+    "chordList": [
+        {
+            "startTime": 0.0,
+            "endTime": 10.233,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 10.233,
+            "endTime": 173.9,
+            "chord": "Ebm"
+        },
+        {
+            "startTime": 173.9,
+            "endTime": 193.333,
+            "chord": "Eb7(9, 13)"
+        },
+        {
+            "startTime": 193.333,
+            "endTime": 273.567,
+            "chord": "Ebm"
+        },
+        {
+            "startTime": 273.567,
+            "endTime": 277.5,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 277.5,
+            "endTime": 343.033,
+            "chord": "Ebm"
+        },
+        {
+            "startTime": 343.033,
+            "endTime": 348.133,
+            "chord": "Eb7(9, 13)"
+        },
+        {
+            "startTime": 348.133,
+            "endTime": 349.067,
+            "chord": "Ebsus4"
+        },
+        {
+            "startTime": 349.067,
+            "endTime": 391.0,
+            "chord": "Ebm"
+        },
+        {
+            "startTime": 391.0,
+            "endTime": 393.067,
+            "chord": "N.C."
+        }
+    ],
+    "keyList": [
+        {
+            "startTime": 0.0,
+            "endTime": 0.7,
+            "key": "N"
+        },
+        {
+            "startTime": 0.7,
+            "endTime": 9.7333,
+            "key": "Gb"
+        },
+        {
+            "startTime": 9.7333,
+            "endTime": 396.9667,
+            "key": "Ebm"
+        },
+        {
+            "startTime": 396.9667,
+            "endTime": 409.5667,
+            "key": "N"
+        }
+    ]
+}

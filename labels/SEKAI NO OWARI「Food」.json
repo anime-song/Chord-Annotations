@@ -1,0 +1,116 @@
+{
+    "chordList": [
+        {
+            "startTime": 0.0,
+            "endTime": 3.867,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 3.867,
+            "endTime": 25.267,
+            "chord": "Cm"
+        },
+        {
+            "startTime": 25.267,
+            "endTime": 26.167,
+            "chord": "Eb6"
+        },
+        {
+            "startTime": 26.167,
+            "endTime": 29.633,
+            "chord": "Cm7/G"
+        },
+        {
+            "startTime": 29.633,
+            "endTime": 31.0,
+            "chord": "Cm/G"
+        },
+        {
+            "startTime": 31.0,
+            "endTime": 32.767,
+            "chord": "Cm"
+        },
+        {
+            "startTime": 32.767,
+            "endTime": 34.133,
+            "chord": "Eb6"
+        },
+        {
+            "startTime": 34.133,
+            "endTime": 35.533,
+            "chord": "Cm7/G"
+        },
+        {
+            "startTime": 35.533,
+            "endTime": 37.433,
+            "chord": "Eb/G"
+        },
+        {
+            "startTime": 37.433,
+            "endTime": 38.767,
+            "chord": "Cm7/G"
+        },
+        {
+            "startTime": 38.767,
+            "endTime": 39.333,
+            "chord": "Cm/G"
+        },
+        {
+            "startTime": 39.333,
+            "endTime": 115.8,
+            "chord": "Cm"
+        },
+        {
+            "startTime": 115.8,
+            "endTime": 116.0,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 116.0,
+            "endTime": 122.8,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 122.8,
+            "endTime": 125.2,
+            "chord": "Eb"
+        },
+        {
+            "startTime": 125.2,
+            "endTime": 125.967,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 125.967,
+            "endTime": 130.833,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 130.833,
+            "endTime": 131.033,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 131.033,
+            "endTime": 160.733,
+            "chord": "Cm"
+        }
+    ],
+    "keyList": [
+        {
+            "startTime": 0.0,
+            "endTime": 3.1333,
+            "key": "N"
+        },
+        {
+            "startTime": 3.1333,
+            "endTime": 160.8,
+            "key": "Cm"
+        },
+        {
+            "startTime": 160.8,
+            "endTime": 204.7667,
+            "key": "N"
+        }
+    ]
+}

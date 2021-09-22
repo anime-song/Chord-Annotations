@@ -1,0 +1,46 @@
+{
+    "chordList": [
+        {
+            "startTime": 0.0,
+            "endTime": 2.733,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 2.733,
+            "endTime": 10.9,
+            "chord": "Gm"
+        },
+        {
+            "startTime": 10.9,
+            "endTime": 12.667,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 12.667,
+            "endTime": 126.3,
+            "chord": "Gm"
+        },
+        {
+            "startTime": 126.3,
+            "endTime": 127.233,
+            "chord": "N.C."
+        }
+    ],
+    "keyList": [
+        {
+            "startTime": 0.0,
+            "endTime": 1.4,
+            "key": "N"
+        },
+        {
+            "startTime": 1.4,
+            "endTime": 128.0,
+            "key": "Gm"
+        },
+        {
+            "startTime": 128.0,
+            "endTime": 136.5,
+            "key": "N"
+        }
+    ]
+}

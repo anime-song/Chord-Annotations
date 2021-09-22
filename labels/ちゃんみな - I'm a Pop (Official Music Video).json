@@ -1,0 +1,191 @@
+{
+    "chordList": [
+        {
+            "startTime": 0.0,
+            "endTime": 2.833,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 2.833,
+            "endTime": 4.333,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 4.333,
+            "endTime": 5.133,
+            "chord": "Fm"
+        },
+        {
+            "startTime": 5.133,
+            "endTime": 11.167,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 11.167,
+            "endTime": 42.033,
+            "chord": "Fm"
+        },
+        {
+            "startTime": 42.033,
+            "endTime": 42.467,
+            "chord": "Bbm7"
+        },
+        {
+            "startTime": 42.467,
+            "endTime": 42.8,
+            "chord": "Bbm7/Eb"
+        },
+        {
+            "startTime": 42.8,
+            "endTime": 44.033,
+            "chord": "Eb"
+        },
+        {
+            "startTime": 44.033,
+            "endTime": 45.233,
+            "chord": "DbM7"
+        },
+        {
+            "startTime": 45.233,
+            "endTime": 47.233,
+            "chord": "C7"
+        },
+        {
+            "startTime": 47.233,
+            "endTime": 90.967,
+            "chord": "Fm"
+        },
+        {
+            "startTime": 90.967,
+            "endTime": 94.267,
+            "chord": "Cm"
+        },
+        {
+            "startTime": 94.267,
+            "endTime": 94.4,
+            "chord": "Cm/F"
+        },
+        {
+            "startTime": 94.4,
+            "endTime": 96.833,
+            "chord": "Cm7/F"
+        },
+        {
+            "startTime": 96.833,
+            "endTime": 103.7,
+            "chord": "Fm7"
+        },
+        {
+            "startTime": 103.7,
+            "endTime": 104.833,
+            "chord": "Cm"
+        },
+        {
+            "startTime": 104.833,
+            "endTime": 106.033,
+            "chord": "Fm7"
+        },
+        {
+            "startTime": 106.033,
+            "endTime": 106.433,
+            "chord": "Bbm7(9)"
+        },
+        {
+            "startTime": 106.433,
+            "endTime": 107.2,
+            "chord": "Db/Eb"
+        },
+        {
+            "startTime": 107.2,
+            "endTime": 108.033,
+            "chord": "Eb"
+        },
+        {
+            "startTime": 108.033,
+            "endTime": 109.267,
+            "chord": "DbM7"
+        },
+        {
+            "startTime": 109.267,
+            "endTime": 111.233,
+            "chord": "C7(b13)"
+        },
+        {
+            "startTime": 111.233,
+            "endTime": 143.467,
+            "chord": "Fm"
+        },
+        {
+            "startTime": 143.467,
+            "endTime": 146.6,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 146.6,
+            "endTime": 162.467,
+            "chord": "N.C."
+        },
+        {
+            "startTime": 162.467,
+            "endTime": 187.433,
+            "chord": "Fm"
+        },
+        {
+            "startTime": 187.433,
+            "endTime": 187.8,
+            "chord": "N.C."
+        }
+    ],
+    "keyList": [
+        {
+            "startTime": 0.0,
+            "endTime": 2.4667,
+            "key": "N"
+        },
+        {
+            "startTime": 2.4667,
+            "endTime": 18.5333,
+            "key": "Fm"
+        },
+        {
+            "startTime": 18.5333,
+            "endTime": 38.1667,
+            "key": "Ab"
+        },
+        {
+            "startTime": 38.1667,
+            "endTime": 115.1333,
+            "key": "Fm"
+        },
+        {
+            "startTime": 115.1333,
+            "endTime": 135.5667,
+            "key": "Ab"
+        },
+        {
+            "startTime": 135.5667,
+            "endTime": 148.3,
+            "key": "Fm"
+        },
+        {
+            "startTime": 148.3,
+            "endTime": 170.7,
+            "key": "Ab"
+        },
+        {
+            "startTime": 170.7,
+            "endTime": 181.0667,
+            "key": "Fm"
+        },
+        {
+            "startTime": 181.0667,
+            "endTime": 188.1,
+            "key": "Ab"
+        },
+        {
+            "startTime": 188.1,
+            "endTime": 204.7667,
+            "key": "N"
+        }
+    ]
+}
